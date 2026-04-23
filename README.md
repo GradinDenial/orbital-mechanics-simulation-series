@@ -25,8 +25,8 @@ It solves the two-body problem using `solve_ivp` from SciPy.
 - Matplotlib
 
 ## Note
-This is Part 1 of a larger orbital mechanics simulation series, which will later include:
+This is Part 1 of a larger orbital mechanics simulation series, part 2 will later include:
 - multiple orbital regimes
-- animation
-- 3D orbital mechanics
-- Moon gravity and perturbations
+- improved visuals and animation
+- Moon trajectory
+-improved simulation structure
