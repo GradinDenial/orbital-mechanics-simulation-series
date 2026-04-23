@@ -3,6 +3,8 @@ Numerical simulation of a satellite orbiting Earth using Newtonian gravity and S
 
 # Orbital Mechanics Simulation — Part 1
 
+![Orbit Energy Plot](orbit_energy_plot.png)
+
 ## Overview
 This project is a basic numerical simulation of a satellite orbiting Earth under Newtonian gravity.
 
