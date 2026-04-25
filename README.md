@@ -40,8 +40,15 @@ This is Part 1 of a larger orbital mechanics simulation series, part 2 will late
 # Orbital Mechanics Simulation — Part 1
 
 ![Orbit Energy Plot](orbit_energy_plot.png)
+Can see the path a Satellite takes at r away frome Earth
+Can Prove the sim with Energy plot staying Constant in that Orbital Field
 
 # Orbital Mechanics Simulation — Part 2
+
+Now we can see at distance r from Earth 4 kinds of orbit as well as compute the closest and furthest part of the Satellites' orbit from Earth (Perigee & Apogee respectively.)
+We can also visualize the path of the Moon.
+Download the folder and change the value of r0 in main.py to see compute different paths
+
 ![Orbital Paths Animation](orbitalpaths-gif.gif)
 ![Energy V Time](energyplot.png)
 ![Orbital Paths Plot](orbitalpaths.png)
