@@ -42,4 +42,6 @@ This is Part 1 of a larger orbital mechanics simulation series, part 2 will late
 ![Orbit Energy Plot](orbit_energy_plot.png)
 
 # Orbital Mechanics Simulation — Part 2
-
+![Orbital Paths Animation](orbitalpaths-gif.gif)
+![Energy V Time](orbit_energy_plot.png)
+![Orbital Paths Plot](orbitalpaths.png)
