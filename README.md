@@ -1,6 +1,6 @@
 # orbital-mechanics-simulation-series
 Numerical simulation of a satellite orbiting Earth using Newtonian gravity and SciPy ODE solvers (Part of an orbital mechanics series).
-
+#Download each part folder respectively and assess yourself the progression as well as changing some bits of code to personalise your simulation with the Earth and its different satellites in orbit!
 
 ## Overview
 This project is a series of numerical simulations of a satellite/s orbiting Earth under Newtonian gravity.
