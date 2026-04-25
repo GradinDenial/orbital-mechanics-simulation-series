@@ -48,6 +48,7 @@ Can Prove the sim with Energy plot staying Constant in that Orbital Field
 Now we can see at distance r from Earth 4 kinds of orbit as well as compute the closest and furthest part of the Satellites' orbit from Earth (Perigee & Apogee respectively.)
 We can also visualize the path of the Moon.
 Download the folder and change the value of r0 in main.py to see compute different paths
+Simulation runs for 30 days
 
 ![Orbital Paths Animation](orbitalpaths-gif.gif)
 ![Energy V Time](energyplot.png)
