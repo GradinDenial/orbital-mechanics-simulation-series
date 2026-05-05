@@ -53,3 +53,15 @@ Simulation runs for 30 days
 ![Orbital Paths Animation](orbitalpaths-gif.gif)
 ![Energy V Time](energyplot.png)
 ![Orbital Paths Plot](orbitalpaths.png)
+
+# Orbital Mechanics Simulation — Part 3
+
+- Improved visuals
+- Improved implentation of moon
+- now 3 body system
+- inclination of all satellites
+- energy now displays moons influence in real time
+
+![Orbital Paths Animation]()
+![EnergY V Time with Moon Influence](earth-moonenergy influence.png)
+
