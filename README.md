@@ -63,5 +63,6 @@ Simulation runs for 30 days
 - energy now displays moons influence in real time
 
 ![Orbital Paths Animation]()
-![EnergY V Time with Moon Influence](earth-moonenergy influence.png)
+![Energy V Time with Moon Influence](earth-moon-energyinfluence.png)
+![3D Orbits with inclination](3dorbit.png)
 
