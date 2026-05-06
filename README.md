@@ -62,7 +62,7 @@ Simulation runs for 30 days
 - inclination of all satellites
 - energy now displays moons influence in real time
 
-![Orbital Paths Animation]()
+![Orbital Paths Animation](3dgif.gif)
 ![Energy V Time with Moon Influence](earth-moon-energyinfluece.png)
 ![3D Orbits with inclination](3dorbit.png)
 
