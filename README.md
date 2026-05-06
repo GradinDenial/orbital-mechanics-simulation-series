@@ -207,13 +207,9 @@ Full 3D simulation with real Moon gravity, inclined orbital planes, and space-th
 
 ---
 
-## 💡 What to Try Next
-
-- Add the **Sun's gravity** as a fourth body in `dynamics.py` using the same pattern as Moon gravity
-- Pull a real satellite TLE from [Celestrak](https://celestrak.org) and compare your propagator against the real trajectory
-- Add **Earth's J2 oblateness term** to the gravity model and observe orbital precession
-- Implement a **Hohmann transfer manoeuvre** — a two-burn sequence to move between circular orbits
-
+# NEXT STEPS?
+- Add the involvement of the sun and see what changes occur
+- The need for burns for satellite path correction **Hohmann transfer manoeuvre**
 ---
 
 *Built with Python · NumPy · SciPy · Matplotlib*
